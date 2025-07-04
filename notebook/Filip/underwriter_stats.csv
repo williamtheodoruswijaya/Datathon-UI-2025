@@ -1,0 +1,114 @@
+underwriter,freq,avg_aset,avg_jumlah,avg_aset_category,freq_category,1D_ARA,1D_plus,1D_minus,1M_good,1M_bad,1Y_plus,1Y_minus,short_rep,mid_rep,long_rep,bigbank
+PT Surya Fajar Sekuritas,11.0,189493654362.81818,105947892314.21817,low,high,7.0,3.0,1.0,8.0,3.0,4.0,7.0,alpha,alpha,gamma,no
+PT BNI Sekuritas,9.0,38983555555555.555,4461378716912.742,high,high,3.0,6.0,0.0,6.0,3.0,4.0,5.0,beta,beta,gamma,yes
+PT Mandiri Sekuritas,15.0,28246333333333.332,6182559109867.955,high,high,2.0,10.0,3.0,4.0,9.0,5.0,6.0,beta,gamma,gamma,yes
+PT Citigroup Sekuritas Indonesia,2.0,21340000000000.0,6393589137500.0,high,low,0.0,2.0,0.0,0.0,2.0,0.0,2.0,gamma,gamma,gamma,no
+PT Credit Suisse Sekuritas Indonesia,6.0,41803333333333.336,8209206448161.8,high,high,0.0,5.0,1.0,1.0,5.0,2.0,4.0,gamma,gamma,gamma,yes
+PT UOB Kay Hian Sekuritas,27.0,1987357502291.2222,628691979093.846,mid,high,14.0,11.0,2.0,13.0,14.0,9.0,14.0,beta,gamma,gamma,no
+PT BCA Sekuritas,3.0,13263333333333.334,2969499478996.267,high,mid,2.0,1.0,0.0,2.0,1.0,3.0,0.0,alpha,gamma,alpha,no
+PT Ciptadana Sekuritas Asia,10.0,6662300000000.0,1472901888372.1184,high,high,8.0,2.0,0.0,8.0,2.0,7.0,3.0,alpha,alpha,alpha,no
+PT Mirae Asset Sekuritas Indonesia,20.0,1188168751291.9,250066988142.71524,mid,high,9.0,6.0,5.0,12.0,8.0,8.0,12.0,beta,gamma,gamma,no
+PT NH Korindo Sekuritas Indonesia,23.0,3295831201807.2173,86240448599.9427,mid,high,11.0,5.0,7.0,12.0,11.0,9.0,13.0,beta,beta,beta,no
+PT RHB Sekuritas Indonesia,4.0,153295293779.25,93650564080.0,low,high,3.0,0.0,1.0,0.0,4.0,0.0,3.0,gamma,gamma,gamma,yes
+PT Korea Investment And Sekuritas Indonesia,2.0,92541500000.0,82750216000.0,low,low,2.0,0.0,0.0,2.0,0.0,0.0,2.0,alpha,alpha,gamma,no
+PT Buana Capital Sekuritas,2.0,2812000000000.0,412348860000.0,mid,low,2.0,0.0,0.0,1.0,1.0,1.0,1.0,alpha,gamma,gamma,yes
+PT Reliance Sekuritas Indonesia Tbk,5.0,1327600000000.0,178835603380.078,mid,high,2.0,2.0,1.0,3.0,2.0,2.0,2.0,beta,gamma,beta,no
+PT BRI Danareksa Sekuritas,13.0,12780566319855.77,3113182035130.9033,high,high,4.0,6.0,3.0,10.0,3.0,6.0,5.0,alpha,alpha,gamma,no
+PT KGI Sekuritas Indonesia,22.0,230506684278.54544,92448844321.90909,low,high,11.0,6.0,5.0,10.0,12.0,5.0,15.0,beta,gamma,gamma,no
+PT UBS Sekuritas Indonesia,4.0,14825000000000.0,4494753440139.7,high,high,1.0,2.0,1.0,1.0,3.0,1.0,3.0,gamma,gamma,gamma,no
+PT Indo Capital Sekuritas,9.0,229601891331.1111,76584083333.33333,low,high,1.0,4.0,4.0,5.0,4.0,1.0,8.0,gamma,beta,gamma,yes
+PT Phillip Sekuritas Indonesia,4.0,1144330917306.25,180798533116.25,mid,high,1.0,2.0,1.0,3.0,1.0,2.0,2.0,alpha,gamma,gamma,yes
+PT Victoria Sekuritas Indonesia,7.0,322504132691.7143,97458573184.0,mid,high,4.0,1.0,2.0,1.0,6.0,1.0,6.0,alpha,gamma,gamma,no
+PT Danasakti Sekuritas Indonesia,5.0,19074000000000.0,8340253998614.713,high,high,0.0,3.0,2.0,2.0,3.0,3.0,2.0,gamma,gamma,gamma,yes
+PT HSBC Sekuritas Indonesia,2.0,34700000000000.0,13757830879568.879,high,low,0.0,1.0,1.0,0.0,2.0,1.0,1.0,gamma,gamma,gamma,yes
+PT Investindo Nusantara Sekuritas,3.0,21893655184897.668,6314187461303.919,high,mid,2.0,0.0,1.0,2.0,1.0,0.0,3.0,gamma,gamma,gamma,no
+PT J.P. Morgan Sekuritas Indonesia,2.0,19530000000000.0,10355285348318.879,high,low,0.0,1.0,1.0,0.0,2.0,0.0,2.0,gamma,gamma,gamma,no
+PT Morgan Stanley Sekuritas Indonesia,3.0,18446666666666.668,10730899349369.52,high,mid,0.0,1.0,2.0,1.0,2.0,1.0,2.0,gamma,gamma,gamma,no
+PT Panin Sekuritas Tbk,9.0,21047969047983.777,4044411574846.9507,high,high,3.0,3.0,3.0,3.0,6.0,3.0,5.0,beta,gamma,gamma,yes
+PT Samuel Sekuritas Indonesia,13.0,14654803444585.924,3234167720620.6455,high,high,5.0,6.0,2.0,8.0,5.0,7.0,3.0,beta,gamma,gamma,no
+PT KB Valbury Sekuritas,14.0,15118729963891.785,3050132869936.554,high,high,6.0,5.0,3.0,8.0,6.0,4.0,7.0,alpha,beta,gamma,yes
+PT Yulie Sekuritas Indonesia Tbk,5.0,12362000000000.0,5574861575140.552,high,high,0.0,2.0,3.0,2.0,3.0,2.0,3.0,gamma,gamma,gamma,yes
+PT Semesta Indovest Sekuritas,7.0,1844880463474.5715,186332565894.69998,mid,high,4.0,2.0,1.0,4.0,3.0,4.0,2.0,beta,gamma,alpha,no
+PT CIMB Niaga Sekuritas,10.0,17987200000000.0,2302885207212.7,high,high,3.0,4.0,3.0,5.0,5.0,3.0,5.0,beta,gamma,gamma,yes
+PT  Surya Fajar Sekuritas,1.0,4180000000000.0,706997408000.0,mid,low,0.0,0.0,1.0,0.0,1.0,0.0,1.0,gamma,gamma,gamma,no
+PT CLSA Sekuritas Indonesia,5.0,57788000000000.0,7591283065261.792,high,high,1.0,4.0,0.0,3.0,2.0,4.0,1.0,gamma,gamma,alpha,no
+PT Shinhan Sekuritas Indonesia,15.0,305125154085.26666,95519035580.66667,low,high,7.0,4.0,4.0,6.0,9.0,3.0,11.0,beta,gamma,gamma,no
+PT Erdikha Elit Sekuritas,11.0,298327300938.2727,105952052859.35565,low,high,5.0,2.0,4.0,5.0,6.0,5.0,5.0,gamma,gamma,beta,no
+PT Trimegah Sekuritas Indonesia Tbk,15.0,14398565785840.8,2561171154503.072,high,high,10.0,4.0,1.0,10.0,5.0,5.0,6.0,alpha,alpha,gamma,yes
+PT Danatama Makmur Sekuritas,7.0,225139955676.85715,108904942142.85715,low,high,3.0,4.0,0.0,3.0,4.0,3.0,4.0,beta,gamma,beta,yes
+PT Sucor Sekuritas,11.0,18794917890873.363,2376172565047.182,high,high,5.0,4.0,2.0,8.0,3.0,7.0,3.0,gamma,alpha,alpha,no
+PT MNC Sekuritas,11.0,306119086829.7273,99858838477.27272,low,high,7.0,1.0,3.0,7.0,4.0,3.0,5.0,alpha,beta,gamma,yes
+PT Maybank Sekuritas Indonesia,4.0,27782500000000.0,3021269423277.2397,high,high,1.0,2.0,1.0,2.0,2.0,3.0,1.0,gamma,gamma,alpha,no
+PT Indosurya Bersinar Sekuritas,1.0,5500000000000.0,288888888600.0,mid,low,0.0,0.0,1.0,0.0,1.0,0.0,1.0,gamma,gamma,gamma,yes
+PT DBS Vickers Sekuritas Indonesia,4.0,39297500000000.0,7303125195436.24,high,high,1.0,3.0,0.0,3.0,1.0,3.0,1.0,gamma,gamma,gamma,yes
+PT Indo Premier Sekuritas,8.0,26526375000000.0,4294826970312.375,high,high,1.0,5.0,2.0,2.0,5.0,2.0,5.0,gamma,gamma,gamma,yes
+PT Nilai Inti Sekuritas,1.0,148000000000000.0,13680211999999.998,high,low,0.0,1.0,0.0,0.0,1.0,0.0,1.0,gamma,gamma,gamma,no
+PT Deutsche Sekuritas Indonesia,1.0,148000000000000.0,13680211999999.998,high,low,0.0,1.0,0.0,0.0,1.0,0.0,1.0,gamma,gamma,gamma,no
+PT Aldiracita Sekuritas Indonesia,2.0,88400000000000.0,11236138000000.0,high,low,0.0,2.0,0.0,0.0,2.0,0.0,2.0,gamma,gamma,gamma,yes
+PT Aartha Sekuritas Indonesia,3.0,927333333333.3334,195340770000.0,mid,mid,3.0,0.0,0.0,3.0,0.0,0.0,3.0,gamma,alpha,gamma,yes
+PT Panca Global Sekuritas,6.0,6012730660509.0,173380971768.33334,high,high,4.0,0.0,2.0,5.0,1.0,0.0,6.0,gamma,alpha,gamma,yes
+PT Yuanta Sekuritas Indonesia,2.0,1256500000000.0,212517990000.0,mid,low,2.0,0.0,0.0,2.0,0.0,0.0,2.0,gamma,gamma,gamma,no
+PT Lotus Andalan Sekuritas,9.0,4120391779888.8887,123422943128.92442,mid,high,6.0,1.0,2.0,6.0,3.0,4.0,3.0,alpha,beta,alpha,yes
+PT Binaartha Sekuritas,3.0,11226370343327.666,185532864868.224,high,mid,2.0,1.0,0.0,2.0,1.0,1.0,2.0,gamma,gamma,gamma,no
+PT Elit Sukses Sekuritas,6.0,46625736331.5,31199909583.333332,low,high,0.0,2.0,4.0,1.0,5.0,2.0,4.0,gamma,gamma,gamma,no
+PT Wanteg Sekuritas,3.0,247350695723.66666,122903935000.0,low,mid,1.0,1.0,1.0,1.0,2.0,1.0,2.0,alpha,gamma,gamma,no
+PT Mega Capital Sekuritas,1.0,355000000000.0,338320446030.0,mid,low,0.0,1.0,0.0,1.0,0.0,0.0,1.0,gamma,gamma,gamma,no
+PT Bahana Sekuritas,1.0,37100000000000.0,9055406062500.0,high,low,0.0,1.0,0.0,0.0,1.0,1.0,0.0,gamma,gamma,gamma,yes
+PT Macquarie Sekuritas Indonesia,2.0,15945000000000.0,4672435125000.0,high,low,0.0,2.0,0.0,1.0,1.0,1.0,1.0,gamma,gamma,gamma,no
+PT Henan Putihrai Sekuritas,3.0,1886666666666.6667,420047393580.0,mid,mid,3.0,0.0,0.0,3.0,0.0,1.0,0.0,alpha,alpha,alpha,no
+PT BNP Paribas Securities Indonesia,1.0,33600000000000.0,9993240775000.0,high,low,0.0,1.0,0.0,0.0,1.0,0.0,1.0,gamma,gamma,gamma,yes
+PT OCBC Sekuritas Indonesia,3.0,11581000000000.0,3436278212500.0,high,mid,0.0,3.0,0.0,1.0,2.0,1.0,1.0,gamma,gamma,gamma,no
+PT Artha Sekuritas Indonesia,3.0,46723204746.0,92689445363.33333,low,mid,3.0,0.0,0.0,3.0,0.0,0.0,3.0,alpha,alpha,gamma,no
+PT Waterfront Sekuritas Indonesia,1.0,70588409490.0,118046016090.0,low,low,1.0,0.0,0.0,1.0,0.0,0.0,1.0,gamma,gamma,gamma,no
+PT Korea Investment and Sekuritas Indonesia,1.0,15186124530.0,49997500000.0,low,low,1.0,0.0,0.0,1.0,0.0,0.0,1.0,gamma,gamma,gamma,yes
+PT Pilarmas Investindo Sekuritas,1.0,189000000000.0,179622900600.0,low,low,1.0,0.0,0.0,0.0,1.0,0.0,1.0,alpha,gamma,gamma,no
+PT Profindo Sekuritas Indonesia,1.0,93374827334.0,55678297600.0,low,low,0.0,1.0,0.0,0.0,1.0,0.0,0.0,gamma,gamma,gamma,no
+PT OSO Sekuritas,1.0,52084891107.0,59493000000.0,low,low,1.0,0.0,0.0,1.0,0.0,0.0,0.0,alpha,alpha,gamma,no
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,,yes
