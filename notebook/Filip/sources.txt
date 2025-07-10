@@ -1,1 +1,0 @@
-vix-dataset = https://github.com/datasets/finance-vix/blob/main/data/vix-daily.csv
