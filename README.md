@@ -1,7 +1,3 @@
-Tentu, ini draf `README.md` yang sudah diperbarui dengan informasi mengenai notebook utama dan notebook XGBoost.
-
------
-
 # Prediksi Keberhasilan IPO Saham di Indonesia
 
 Repositori ini berisi keseluruhan alur kerja, data, model, dan analisis untuk proyek prediksi keberhasilan IPO (Initial Public Offering) saham di Indonesia. Tujuan utama dari proyek ini adalah untuk membangun model *machine learning* yang dapat memprediksi kinerja harga saham dalam berbagai jangka waktu (1 hari, 1 minggu, 1 bulan, 6 bulan, dan 1 tahun) setelah IPO.
